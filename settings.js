@@ -21,18 +21,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94763427338']
-global.premium = ['94763427338']
-global.ownernomer = '94763427338'
+global.owner = ['92136744239']
+global.premium = ['923136744239']
+global.ownernomer = '923136744239'
 global.ownername = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
-global.botname = 'VIHANGA MD BOT'
-global.footer = 'VIHANGA MD'
-global.cap = '*Genarated By Vihanga Md*'
-global.ig = 'https://github.com/vihangabot'
+global.botname = 'bad boy BOT'
+global.footer = 'bad boy MD'
+global.cap = '*Genarated By bad boy*'
+global.ig = 'https://youtube.com/channel/UChzb_g2vFi8fCDrntDrZkDA'
 global.region = 'Sri Lanka, Sabaragamuwa, Embilipitiya'
-global.sc = 'https://github.com/vihangabot'
-global.myweb = 'https://chat.whatsapp.com/BDge3i6chrQKWkkSRellyT'
-global.packname = 'Vihanga Md Sticker Bot'
+global.sc = 'https://youtube.com/channel/UChzb_g2vFi8fCDrntDrZkDA'
+global.myweb = 'https://chat.whatsapp.com/HT3y4dOm2mqK2yxpRP5x1v
+global.packname = 'bad boy Sticker Bot'
 global.author = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
 global.autobio = 'true'
 global.sessionName = 'session'
